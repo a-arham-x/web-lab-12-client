@@ -1,0 +1,38 @@
+/* Custom CSS for additional styling */
+body {
+    background-color: #343a40;
+    /* Dark background color */
+    color: #ffffff;
+    /* Text color */
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.1);
+    /* Slightly transparent white background */
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.image-gallery {
+    background-color: rgba(255, 255, 255, 0.2);
+    /* Slightly transparent white background for image gallery */
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px 0;
+}
+
+.image-gallery img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+.my-text {
+    background-color: rgba(255, 255, 255, 0.2);
+    /* Slightly transparent white background for text */
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px 0;
+}

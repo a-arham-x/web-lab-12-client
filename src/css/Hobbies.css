@@ -1,0 +1,35 @@
+/* Custom CSS for additional styling */
+body {
+    background-color: #343a40;
+    /* Dark background color */
+    color: #ffffff;
+    /* Text color */
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.1);
+    /* Slightly transparent white background */
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.hobby-div {
+    background-color: rgba(255, 255, 255, 0.2);
+    /* Slightly transparent white background for hobby divs */
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px 0;
+}
+
+.hobby-div img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.hobby-div h3 {
+    font-size: 30px;
+    font-weight: 100;
+    margin: 10px;
+}

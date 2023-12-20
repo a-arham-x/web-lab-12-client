@@ -1,0 +1,16 @@
+.footer {
+    background-color: #343a40;
+    /* Dark footer background */
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer a {
+    color: #ffffff;
+    /* Footer link color */
+}
+
+.footer a:hover {
+    color: #17a2b8;
+    /* Hover color for footer links */
+}
